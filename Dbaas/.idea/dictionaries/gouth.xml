@@ -1,0 +1,20 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="gouth">
+    <words>
+      <w>amazonaws</w>
+      <w>balancer</w>
+      <w>dbaas</w>
+      <w>fanout</w>
+      <w>mongo</w>
+      <w>mongodump</w>
+      <w>mongomaster</w>
+      <w>mongorestore</w>
+      <w>mongoslave</w>
+      <w>pids</w>
+      <w>rabbitmq</w>
+      <w>readdb</w>
+      <w>rideshare</w>
+      <w>writedb</w>
+    </words>
+  </dictionary>
+</component>
